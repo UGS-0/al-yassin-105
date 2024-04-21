@@ -1,0 +1,12 @@
+{
+    "files.autoSave": "onFocusChange",
+    "terminal.integrated.automationProfile.linux": {
+
+    },
+    "terminal.integrated.gpuAcceleration": "on",
+    "terminal.integrated.localEchoExcludePrograms": [
+        "vim",
+        "vi",
+        "tmux"
+    ]
+}
